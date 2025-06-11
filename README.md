@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📌 I'm a software developer from Reutlingen/Stuttgart<br>🗂️ Check my projects here: www.portfolio.com</p>
+<p align="left">📌 I'm a software developer from Reutlingen/Stuttgart<br>🗂️ Check my projects here: Link</p>
 
 ###
 
